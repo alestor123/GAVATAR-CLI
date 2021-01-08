@@ -1,0 +1,23 @@
+{
+  "name": "gavatar-cli",
+  "version": "1.0.0",
+  "description": "This is a simple code for getting gavatar image of a user",
+  "main": "App.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/GAVATAR-CLI.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/GAVATAR-CLI/issues"
+  },
+  "homepage": "https://github.com/alestor123/GAVATAR-CLI#readme"
+}
