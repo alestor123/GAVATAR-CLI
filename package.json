@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "This is a simple code for getting gavatar image of a user",
   "main": "App.js",
+  "bin": {
+    "gavatar": "App.js"
+  },
+
   "dependencies": {
     "axios": "^0.21.1"
   },
